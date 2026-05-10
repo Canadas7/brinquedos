@@ -2,7 +2,7 @@
 
 ## Checkpoint 2 — Programação Spring Boot com Persistência
 
-Este projeto foi desenvolvido para o Checkpoint 2 da disciplina de Programação Spring Boot com Persistência.
+Este projeto foi desenvolvido para o Checkpoint 2 da disciplina de Programação Spring Boot.
 
 A aplicação consiste em uma API REST para gerenciamento de brinquedos infantis, permitindo realizar operações de cadastro, consulta, atualização e exclusão de brinquedos utilizando Java, Spring Boot e banco de dados Oracle.
 
